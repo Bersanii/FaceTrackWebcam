@@ -19,5 +19,8 @@
 
 ## Configuração :gear:
 
+### Opentrack:
+
+
 ### DroidCam:
 Abra o app no seu smartphone e selecione as configurações desejadas ( dê prioridade a quantidade de quadros por segundo para melhor leitura do software de reconhecimento facial )
