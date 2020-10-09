@@ -20,7 +20,12 @@
 ## Configuração :gear:
 
 ### Opentrack:
+O opentrack recebe dados de equipamentos ou softwares que capturam seus movimentos e os convertem em comandos que podem ser lidos pelo seu jogo.
 
+![alt main](images/Opentrack/main.PNG)
+
+:black_medium_square: **INPUT: Método de entrada dos dados para o programa**  
+Selecione **UDP Over network** que é o método usado para receber as informações do AiTrack
 
 ### DroidCam:
 Abra o app no seu smartphone e selecione as configurações desejadas ( dê prioridade a quantidade de quadros por segundo para melhor leitura do software de reconhecimento facial )
